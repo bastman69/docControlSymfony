@@ -1,4 +1,6 @@
-documentControl
+Document Control
 ===============
 
-A Symfony project created on August 29, 2017, 9:19 pm.
+EasyAdminBundle Implementation.
+Symfony 3.3.8
+
